@@ -6,7 +6,7 @@ I'm passionate about learning new technologies and everything else!
 
 ### Find me elsewhere 🌎
 
-:computer: [Facebook]([https://www.facebook.com/mariannasantoroc]) <br>
-📸 [Instagram]([https://www.instagram.com/santoro.mari/]) <br>
-💼 [LinkedIn]([https://www.linkedin.com/in/marianna-santoro-19554a1aa/]) <br>
+:computer: [Facebook](https://www.facebook.com/mariannasantoroc) <br>
+📸 [Instagram](https://www.instagram.com/santoro.mari/) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/marianna-santoro-19554a1aa/) <br>
 
