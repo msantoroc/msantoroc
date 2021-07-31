@@ -6,7 +6,8 @@ I'm passionate about learning new technologies and everything else!
 
 ### Find me elsewhere 🌎
 
-:computer: [Facebook](https://www.facebook.com/mariannasantoroc) <br>
-📸 [Instagram](https://www.instagram.com/santoro.mari/) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/marianna-santoro-19554a1aa/) <br>
+<div> 
+  <a href="https://www.instagram.com/santoro.mari/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marianna-santoro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:msantoroct@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
