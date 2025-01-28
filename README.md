@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Marianna Santoro, I'm from Brazil and I'm a web and mobile developer :octocat:
+My name is Marianna Santoro, I'm from Brazil and I'm a web and software developer :octocat:
 
 I'm passionate about learning new technologies and everything else!
 
